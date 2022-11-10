@@ -1,10 +1,10 @@
 .root {
-    margin: 0 auto;
-    border: 1px solid #000;
-    max-width: 1440px;
+  margin: 0 auto;
+  border: 1px solid #000;
+  max-width: 1440px;
 
-    /*customized values*/
-    --background_color_ligh-blue: #6347F9;
-    --text_color-bright: #fff;
-    --text_color-dark: #333;
+  /*customized values*/
+  --background_color_ligh-blue: #6347f9;
+  --text_color-bright: #fff;
+  --text_color-dark: #333;
 }

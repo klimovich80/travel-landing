@@ -1,0 +1,13 @@
+.header__menu_items {
+  border: 1px solid red;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  width: 353px;
+  height: 32px;
+  left: 737.5px;
+  top: 25px;
+}

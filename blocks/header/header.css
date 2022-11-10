@@ -1,4 +1,7 @@
 .header {
   border: 1px solid red;
   background: var(--background_color_ligh-blue);
+  display: flex;
+  flex-direction: column;
+  position: relative;
 }
